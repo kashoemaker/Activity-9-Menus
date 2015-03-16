@@ -1,0 +1,17 @@
+##### Create a menu
+
+For your chess program create a file menu. It should have the following options:
+
+1. Open
+
+2. Save
+
+3. Save as
+
+4. Close
+
+Create a second menu called edit. It should have the following options:
+
+1. Undo
+
+2. Redo.
